@@ -12,5 +12,4 @@ Built to celebrate a special milestone with animations, a live love timer, music
 
 ## Tech Used
 - HTML
-- CSS
-- JavaScript
+
